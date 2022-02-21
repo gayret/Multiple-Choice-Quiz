@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Mustafa Kemal Atatürk’ün doğum yeri neresidir?",
+    "choices": ["İstanbul", "Ankara", "İzmir", "Adana", "Selanik"],
+    "answer": "Selanik"
+  },
+  {
+    "question": "Mustafa Kemal Atatürk’ün doğum yılı hangisidir?",
+    "choices": ["1923", "1881", "1925", "1926", "1927"],
+    "answer": "1881"
+  },
+  {
+    "question": "Mustafa Kemal Atatürk’ün rütbesi nedir?",
+    "choices": ["Yüzbaşı", "Binbaşı", "Yüksekbaşı", "Mareşal", "Kıymetbaşı"],
+    "answer": "Mareşal"
+  }
+]
